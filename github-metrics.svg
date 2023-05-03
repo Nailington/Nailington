@@ -313,7 +313,7 @@ Moved my linking to the service worker to be more organized with the new formatt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 May 2023, 08:12:53 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 May 2023, 09:09:44 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
