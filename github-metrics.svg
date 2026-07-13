@@ -251,7 +251,7 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by xinitsoftware in <span class="repo">godotengine/godot</span></div>
+                                    <div>opened by ghost in <span class="repo">godotengine/godot</span></div>
                                     <div class="comment">
                                         I also can confirm I have this issue on v4.7.stable.nixpkgs [5b4e0cb0f]. Selecting more than one tile in a selection seems to cause a crash. This was not the case in v4.6.3.stable.nixpkgs [35e80b3a8]
 Godot v4.7.stable (5b4e0cb0f) - cpe:/o:nixos:nixos:26.11 #1-NixOS SMP PREEMPT_DYNAMIC Tue Jan  1 00:00:00 UTC 1980 on Wayland - Wayland display driver, Multi-window, 1 monitor - Vulkan (Forward+) - dedicated NVIDIA GeForce RTX 5050 Laptop GPU - AMD Ryzen 5 240 w/ Radeon 760M Graphics (12 threads) - 14.92 GiB memory - PulseAudio (44100 Hz, Stereo/mono)
@@ -297,7 +297,7 @@ handle_crash: Program crashed with signal 11
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jul 2026, 07:50:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jul 2026, 10:03:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
